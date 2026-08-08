@@ -83,3 +83,13 @@ EEPROM Address 3 → Neck
 5. Compile and upload the program.
 6. Use the joysticks to control the robotic arm.
 
+## Project Report
+
+The detailed project documentation is available in:
+
+`FINAL_REPORT_PHASE_2.pdf`
+
+## Author
+
+**Utkarsh Maurya**
+
