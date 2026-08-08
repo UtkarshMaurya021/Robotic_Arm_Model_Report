@@ -64,3 +64,22 @@ EEPROM Address 0 → Gripper
 EEPROM Address 1 → Up/Down
 EEPROM Address 2 → Front/Back
 EEPROM Address 3 → Neck
+
+```
+
+## Software
+
+- Arduino IDE
+- C/C++ (Arduino)
+- Servo Library
+- EEPROM Library
+
+## How to Run
+
+1. Open `Robotics_Arm.ino` in Arduino IDE.
+2. Connect the Arduino board.
+3. Connect the servos and joysticks according to the pin configuration.
+4. Select the correct Arduino board and COM port.
+5. Compile and upload the program.
+6. Use the joysticks to control the robotic arm.
+
